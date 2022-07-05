@@ -1,0 +1,10 @@
+/* das ist damit du kein horizontales scrolbar hast */
+html {
+    box-sizing: border-box;
+}
+
+body {
+    /* damit des ganzen bildschirm übernimt */
+    margin: 0;
+    min-height: 100vh; 
+}
